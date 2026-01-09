@@ -5,7 +5,7 @@ console.log(c);
 
 let a=19;
 const b=20;
-var c=21;
+var c=20;
 function SUM(){
     let b=30;
     function SUB(){
